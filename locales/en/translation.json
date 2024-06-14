@@ -1,0 +1,20 @@
+{
+    "validation": {
+      "required": "The {{field}} field is required",
+      "invalid": "The {{field}} field is invalid"
+    },
+    "fields": {
+      "title": "title",
+      "description": "description",
+      "location": "location"
+    },
+    "error": {
+      "notFound": "The requested resource was not found",
+      "unauthorized": "Unauthorized"
+    },
+    "success": {
+      "created": "Successfully created",
+      "updated": "Successfully updated"
+    }
+}
+  

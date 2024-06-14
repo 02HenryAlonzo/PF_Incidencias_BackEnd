@@ -1,0 +1,20 @@
+{
+    "validation": {
+      "required": "El campo {{field}} es obligatorio",
+      "invalid": "El campo {{field}} es inválido"
+    },
+    "fields": {
+      "title": "título",
+      "description": "descripción",
+      "location": "ubicación"
+    },
+    "error": {
+      "notFound": "No se encontró el recurso solicitado",
+      "unauthorized": "No autorizado"
+    },
+    "success": {
+      "created": "Creado con éxito",
+      "updated": "Actualizado con éxito"
+    }
+}
+  
